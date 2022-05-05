@@ -1,0 +1,3054 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Projects/backbrace-web/BackBraceWeb/BackBraceWeb",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.IdentityHostingStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.IdentityHostingStartup.html",
+          "hash": "IluqythODZnGwHeJ3W2XJ2v9q4d8mFqcevrBa4Iu+/4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.AccessDeniedModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.AccessDeniedModel.html",
+          "hash": "e7HYloKv+wnYQRWYBJmZtYZyb2pi0+z3mdVf1N0To94="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ConfirmEmailChangeModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ConfirmEmailChangeModel.html",
+          "hash": "W7hzrbKZ4tNeMQd5K0hGjQscVKGQujlmQbDghGiB6rs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ConfirmEmailModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ConfirmEmailModel.html",
+          "hash": "r4/+ysfAvZphGH2e61DbyCMekgnnw/nWi5nHQTuhiL8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ExternalLoginModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ExternalLoginModel.InputModel.html",
+          "hash": "7hmO0FyncGDo3A0XsaMJGQPuLbsOk3UWvTj4AwGkJj8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ExternalLoginModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ExternalLoginModel.html",
+          "hash": "fqkXaJmnrsUi5kx5Bh8Z8f+p90wQ2Bi6/D+/Ae0NnJM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordConfirmation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordConfirmation.html",
+          "hash": "FlsBTVI6z9N6Xlzxanxq+H3PMoyGJ3TFLIYxrP1N0yc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordConfirmationMobile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordConfirmationMobile.html",
+          "hash": "1P2eJghI5KPQkSZE7PX5UaOri/5vuoGBgx7ubbAVMbo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordModel.InputModel.html",
+          "hash": "hhkZFu/Wt42p7aetPzFxRvm3g1i1b5FRzpEeXxq2ry8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ForgotPasswordModel.html",
+          "hash": "e5xoE6hVbXIoOts+YviZCKk8mI34Ru4/k4pi5HTQln8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LockoutModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LockoutModel.html",
+          "hash": "4fXaauChuNN8hIT7ha43JSU6vLBaUjsN7hPj6YoS19Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginModel.InputModel.html",
+          "hash": "LI5KN6t2gT3tAJS1QPITMKa9iBQg/1ko73lWgsx3fQo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginModel.html",
+          "hash": "VVjFrTWiCxsYoUD4PzPMOufLsPgeo1fv0jMflKs58fA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWith2faModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWith2faModel.InputModel.html",
+          "hash": "8WN9POKgVQKn2yRCTGHhWA6/e/je4apw/WqAVR3tIKY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWith2faModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWith2faModel.html",
+          "hash": "6FivhMg1gM08p8+tyVpa4ONnjqKKBccbeqdyaAS1l+w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWithRecoveryCodeModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWithRecoveryCodeModel.InputModel.html",
+          "hash": "Y7SwOe0FaU1SIVNjfvDow82YE+IC0fxAssrEc7wCQGk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWithRecoveryCodeModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LoginWithRecoveryCodeModel.html",
+          "hash": "YLu8SqDgiYJ7Wge8FEXI+i/9eRqN2j65ZJb019IHNnY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LogoutModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.LogoutModel.html",
+          "hash": "Cg8Z/+1V4/ccvK56UWCt2y9iK3ClH7NC+Ghvntr9A7c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ChangePasswordModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ChangePasswordModel.InputModel.html",
+          "hash": "U6Youm8Gc4GFRhIJ6xOwOGF8Dn6DTn7LAwyskWmDQ9A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ChangePasswordModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ChangePasswordModel.html",
+          "hash": "cc+NLwUXxeht+5Nz/uQBxYU6pTfN2Cwoy2VWJF/I0rk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.DeletePersonalDataModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.DeletePersonalDataModel.InputModel.html",
+          "hash": "1xjbQ/47J06cNAToVBXv3O1bYiKxtAMouoWVIcWTzlc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.DeletePersonalDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.DeletePersonalDataModel.html",
+          "hash": "HA5StlD1ZDExg7Ug7e5CcdTHNnjVox+2bBQC22CLbCQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.Disable2faModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.Disable2faModel.html",
+          "hash": "faXSpLVsOLlCmKYYOaW2HYrOw7q8TGixt7bEtIhMrqA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.DownloadPersonalDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.DownloadPersonalDataModel.html",
+          "hash": "Jd5osqJAtkgApaqzja6T8D5O1EQwRzsjaYVsE0Rnguw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EmailModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EmailModel.InputModel.html",
+          "hash": "lXFHoofRaDNNMqfNNZ/O8Kxco31Ec8sOxmcl8iu3Nbo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EmailModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EmailModel.html",
+          "hash": "PWCwSZx26JXMbCaYUmNbuCSPgw9mYRRtDrr+Fw+FkLk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EnableAuthenticatorModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EnableAuthenticatorModel.InputModel.html",
+          "hash": "snRh1lF9TBq/cYjZOmdeTmFqEAIIm+dq1oEtePOeYVk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EnableAuthenticatorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.EnableAuthenticatorModel.html",
+          "hash": "VdlEO/qR2GlnnYfmGdTuOa7Tjs338ynnGaxu5AGqpDM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ExternalLoginsModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ExternalLoginsModel.html",
+          "hash": "lMvxhiMg3QmmUU/X3bLaqA++hAtdgrx9Zo+ftEypi+I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.GenerateRecoveryCodesModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.GenerateRecoveryCodesModel.html",
+          "hash": "VVTBtA2t5657q6+Phrj7t34UrGJ8OCY52vFwALAKoWE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.html",
+          "hash": "nlJZL8BonJ1n3r09HlV5A17nhIgQj6vIp8iwlrQr10s="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.IndexModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.IndexModel.html",
+          "hash": "2022gz7y9X093nqStioHJ5JRH4CDFnX4fSpBeoH/GdI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ManageNavPages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ManageNavPages.html",
+          "hash": "LulZkwYqwL8KzUuOw27VGprzzTuM8KS/FzArUi9Ezkk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.PersonalDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.PersonalDataModel.html",
+          "hash": "IU05wAevZkYQD5tN3Lhh0AkLUREpZfbXd3AgBQek9CM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ResetAuthenticatorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ResetAuthenticatorModel.html",
+          "hash": "OoMB8/g3ZViMIPJ/LidMuzWosJzqeWI9qE/A1e/zpFk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.SetPasswordModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.SetPasswordModel.InputModel.html",
+          "hash": "YQ9FlzCLAlbPqdCUjKMLhkb3qo8YEvbHQw1tfwryMBs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.SetPasswordModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.SetPasswordModel.html",
+          "hash": "tSnAzMW6bOW5Gq+6bzY/6I49l0c+DFTvJbUyv51Hync="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ShowRecoveryCodesModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.ShowRecoveryCodesModel.html",
+          "hash": "zf6+uinzLprEH4upK2O/x0GXNdQ0hijktaIAjFNTB10="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.TwoFactorAuthenticationModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.TwoFactorAuthenticationModel.html",
+          "hash": "wrs5v3GKTPTGqTHA7PinNFn2pvfLr1cWFwfHhlHze/k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.Manage.html",
+          "hash": "QT0b9PWkMiF5ix9g+10X1Xz+V2U7ZGv37Ks/LW0pLdg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.RegisterConfirmationModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.RegisterConfirmationModel.html",
+          "hash": "/ey1i36FMneS04k0CRodNGn/KFGh4OvOwuOJ1hMFC8I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.RegisterModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.RegisterModel.InputModel.html",
+          "hash": "LMofY7cRjjat/bERqKFOQEA9J6R5uhUYUCxGnQBYPM4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.RegisterModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.RegisterModel.html",
+          "hash": "LyQnjfVFpl9qBCjbDreIQzxuE7zwp1SOaTOgw/+4VTk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordConfirmationModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordConfirmationModel.html",
+          "hash": "i+JVX+2oo9y4lZuZijqSN8TKKUX1/N0xfgyIgW22fc0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordConfirmationModelMobile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordConfirmationModelMobile.html",
+          "hash": "ML9pKsenPy3HyCkf6nwwp95PuvVsSAW8rZ6i4GJhEZo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordModel.InputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordModel.InputModel.html",
+          "hash": "HXtZv7n8whJ1GB/o19gQsUmQHp3YVfVdE1o4jaX1lQA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.ResetPasswordModel.html",
+          "hash": "2zBcaNEETlNy8b46znP/r8/RsqaMnmgYVtK0nIXQrIU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.Account.html",
+          "hash": "0uHZG/3KA7x54U0R1fpMQRj3/94lkuSVyiF03Lm8Wy8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.ErrorModel.html",
+          "hash": "ClzLK4Bwg3otE28nLUvC27NMFuxmWasjpKik1G7LP6s="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.Pages.html",
+          "hash": "flRlYyiNRp31Kob2Bevl9g6omDsfZmdk7mLRQxNGxH8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Areas.Identity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Areas.Identity.html",
+          "hash": "Ubq4ewmp7TKpRiGM4NiurMvRYGGTPxqcOp5uradFtm8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.AdjustmentController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.AdjustmentController.html",
+          "hash": "VHigTMcqxNAfNwvKzImSmuFrmEz5xFA3LyZ6DS5RNCI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.AchievementsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.AchievementsController.html",
+          "hash": "wCATO7gLQ5ME5KE0c+K5IRyM8ImztxcYP+xwolIqaow="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.AdjustmentsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.AdjustmentsController.html",
+          "hash": "+uT4uMJdgKYYyiT8/gLERyYhXqV3mdyCPGeEUZXpL8k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.BackBraceInfoController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.BackBraceInfoController.html",
+          "hash": "TI31gNUfGH2sxLZZctAreZH0GCJWJ1/5+UsTZsHHvlw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.BraceMeasurementsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.BraceMeasurementsController.html",
+          "hash": "nWqOZwDcZtBDMSRVZAf7akt1iwsUOhgYfjegPhxwT6c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.DailyReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.DailyReport.html",
+          "hash": "pA5BuzSqAMfRM1nfyrYd7yUxS3h302gz12CFRzcxr0M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.DoctorMapReturnModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.DoctorMapReturnModel.html",
+          "hash": "9OlhvepUMlBEtnLMVE4vTg5DWmm1TNFdKJkkYU+IIhs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.HistoryPageReturnModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.HistoryPageReturnModel.html",
+          "hash": "LyPTmRHXFjvrcAvQi0GJslmL0dXiZQl9vXyBRndu4Tk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.NotificationsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.NotificationsController.html",
+          "hash": "PkhktVBlNzoYOVtihLoB91WsUmtuz56R91nMRRSeGlU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.PatientTotals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.PatientTotals.html",
+          "hash": "PKh4AoKKa4vRumB/djMchuZxYV8YT8Dw6yHrMEiYDmY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.PatientsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.PatientsController.html",
+          "hash": "E5sG94sPv98OYx2Nnwcyfj4xLxKRyqK6q+kcpmveS3o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.QuizController.QuizReturnModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.QuizController.QuizReturnModel.html",
+          "hash": "Yx4sB1QpbVw7RxfwEruvtSVPs7L3gfUAQv1aCH5ipcs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.QuizController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.QuizController.html",
+          "hash": "uev8kunW/4cMO9aJbXHA9iREBGtRefgt4us67s0UjeQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.RegisterController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.RegisterController.html",
+          "hash": "t5rcuCZhS3ymuIJbCcQRH4FhT3bzX6x/yRUrVu6a+pQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.TokenController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.TokenController.html",
+          "hash": "FQy1nDkI0sKgP77GhTTMIaeKiIpUdVsXAk14DVwGckw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.UserController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.UserController.html",
+          "hash": "s8vk5jFFXu2+L5PxjqbauNP7E9rck8XdHKAxgi6I6Os="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.VersionsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.VersionsController.html",
+          "hash": "zXgCEBVTRoMZc68ZpEr1JSgB2t3LJmYK1JQmT8dFcyA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.WidgetController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.WidgetController.html",
+          "hash": "PLfnnRgnZyyWThA97AcENFks6h4/pvu3uBQQJ62Srvw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.Api.html",
+          "hash": "RQG9LsP7DYAWaWuQSUjxwt6F2HfCsE7o1g/z3rSV2xE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.CobbAngleController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.CobbAngleController.html",
+          "hash": "oHkEUq6O1R/7pu2LaCMevaIFS3e+JI4e2+KFFvJ/sK4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.ConfirmEmailController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.ConfirmEmailController.html",
+          "hash": "C0eJh8/HhmY3bl1VR1ythjzs0CQaYwsUan6H5brovYM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.DataController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.DataController.html",
+          "hash": "9vNkIlP5Zg4Gy3ZIApFVZEI2GrIbmbRhNk1ioxmdLPw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.DoctorsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.DoctorsController.html",
+          "hash": "GC3stcwiWHxZQgBnPcDHAiI3sqazhQR5P5GJiJ7wxhM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.HomeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.HomeController.html",
+          "hash": "sKsbuCnwsloUlBpgs3oUdlk9SSmZUp68Hxu6jP669So="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.PatientsController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.PatientsController.html",
+          "hash": "z/tf9vfBR8ByK7ZG25Phq2TlGhtzkbwlzHZaBpsRXBI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Controllers.html",
+          "hash": "1w+1uSi++59OXO40gq59ppIgHhwrU/ZWN1YnLqLb2jY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Data.ApplicationDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Data.ApplicationDbContext.html",
+          "hash": "n5qJ4YsoXsL5AxN5GYiGGG07g+JXV76y3XQTFBwGt4c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Data.html",
+          "hash": "mYhKY8oRhHZcoRme6553cpWLC2uEJsNdIXfhspWJ21o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.AchievementRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.AchievementRetriever.html",
+          "hash": "onmU+stEWoQGn0yfvNZyCDn8Ui2kgYqfqr5o569XcLo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.AdjustmentRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.AdjustmentRetriever.html",
+          "hash": "0gTFpl5i9MuXybFQZY1Od/6nG/tOmQUac9UZoT7kMpM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.BackBraceInfoRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.BackBraceInfoRetriever.html",
+          "hash": "BWR34V98rdkULr21tWPWnTbEWx1jB+O6DLxvoZWwfcU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.BraceMeasurementRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.BraceMeasurementRetriever.html",
+          "hash": "byzgPOawtDZKUpQyBOF1yOYf4BOG5Ca+VUoKgMi+CYU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.CobbAngleRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.CobbAngleRetriever.html",
+          "hash": "UVAHYaRlWW/aXgJk3nnp71tFhSODp1GxB+24dOk4a7k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.DeviceHubRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.DeviceHubRetriever.html",
+          "hash": "g98O+RwvLgGUKp7xt4UC7OaNVFoV1B7ldqSh9Nf7Swg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.DoctorRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.DoctorRetriever.html",
+          "hash": "fDC9eDgBfSMjSsNdQTBv8LQXhFhJ7FKH68srIljbPGo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.GuardianRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.GuardianRetriever.html",
+          "hash": "UpcngMIu/mmU8WzfyJXM7gP7oyq5xZFrWWhviXCJhWQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.NotificationRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.NotificationRetriever.html",
+          "hash": "bUfi7u1Xli56UiOHj+h94jD4jbXcQlPPlGWcNIWsI5U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.PatientRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.PatientRetriever.html",
+          "hash": "qWC4EtLhMtorftPASRzSLK9BpQ3rpvuUXCXOCSoh/Jc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.QuizRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.QuizRetriever.html",
+          "hash": "0XhG9/khNUSSjxEnfCTUJ8yPDTg2r7k94l2Qyf/Cs5o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.TokenRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.TokenRetriever.html",
+          "hash": "19/D4Pt1mBmcckONV+akvTa/y1q4BlrO4Pk8ceo3Z2w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.UserDailyReportRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.UserDailyReportRetriever.html",
+          "hash": "A11hTdLQYCRvAJmVNPqH2tbMlgFICmS0psGI2W7Mp9Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.UserRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.UserRetriever.html",
+          "hash": "OHI9aJedaFGxQ8pfmLDorvUtUO17bjvyZGkj7nFPLQs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.VersionRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.VersionRetriever.html",
+          "hash": "N3e4BbW97WRUhfQ3UV1bDeMUfFv4QCIKQuxJ2zDvTtM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.DataRetrievers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.DataRetrievers.html",
+          "hash": "vmWStn6GbrXgPgRRUrikD826mPIF1ObnsXDuv0+da0k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Interfaces.IAdjustmentRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Interfaces.IAdjustmentRetriever.html",
+          "hash": "ZgkXVsjH0srj+lzMYrDrPb7bgKRFCbCErSk0locAdR0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Interfaces.IBraceMeasurementRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Interfaces.IBraceMeasurementRetriever.html",
+          "hash": "ncv3zLN5XGuH1xV3LXok7GmG7leltvGSoGOAWKnXY7Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Interfaces.IVersionRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Interfaces.IVersionRetriever.html",
+          "hash": "Y39CTdsXT7h9KT/8UPMJ8et98LxFScUgTxcW3HWTLN8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Interfaces.html",
+          "hash": "wvUajpYMX/We8QOJ8T1PNJS+GMdP91pGkzF30M4GSoo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AchievementCompletedCounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AchievementCompletedCounter.html",
+          "hash": "5Wj/h5LZVV+JjESey5Q/PCLMgjxNqn/evDQB0mDhHDI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AchievementModelType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AchievementModelType.html",
+          "hash": "jjZcyRj5+dQGbt4EUCETS1V4MN4mugcVZbHcy+3JtkU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddDoctorPatientMap_MinMaxAvg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddDoctorPatientMap_MinMaxAvg.html",
+          "hash": "tNM55lWuuM2knNdYgSg6rLm9p6XPPgEblrT8Xzw5MNs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddNonAdjValuestoBraceMeasurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddNonAdjValuestoBraceMeasurement.html",
+          "hash": "T5/pyTKSfNGvyLMEhuIkPK+yEdowI1mBsdIlxEuMMjc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedAdjustmentJistoryPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedAdjustmentJistoryPage.html",
+          "hash": "PMfnkI+OSnc7EIhebiWvjIU2rhPLiH5GhDTtBTTzzhA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedApplicationBadgesMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedApplicationBadgesMap.html",
+          "hash": "LM5TGMG/8YQTNaPoj3Cz8vrpwnJJRSK+iJl89A+mlO8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedBackBraceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedBackBraceInfo.html",
+          "hash": "Se3YCfOo/mbKT2wpHOPSO+pOl/MchZh/PVSzZ6a3g/U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedBadges.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedBadges.html",
+          "hash": "jM7jGV3Z4n1Y31ELhwvjawRkPbI//lJo6U9WIYj6Lfw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedBatteryLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedBatteryLevel.html",
+          "hash": "rob9OTgCfIZaoMLnOEDJBsTJXyFIHvaXemkGBpLR/+Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedBonusTimestampToUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedBonusTimestampToUser.html",
+          "hash": "Mli6M/iyJVuKCpoO2Rn/31z8t7VfEiFdhBSvGhGjZ28="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedBonusTimestamptoGameProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedBonusTimestamptoGameProfile.html",
+          "hash": "JrSwNyXHdqyhmzEaxZ5wzVPEPqu5un6RE3YH/Nvw2cQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedCalibrationCharacteristicId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedCalibrationCharacteristicId.html",
+          "hash": "osdR2A/csmrEUDsktYnwqpdLz5IRJO069CiaF3z7gK4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedCobbAngle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedCobbAngle.html",
+          "hash": "GzvIjxjeHm5sc3Pwews2oTbv+Bggfr3WgTDWi9Su/DQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedCobbAngleAndTypeOfScoliosis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedCobbAngleAndTypeOfScoliosis.html",
+          "hash": "AH8Yl1tCC7ULKBiHwJ8v7iLv2cO0+IapNxu5a0SqlB8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedCountryCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedCountryCode.html",
+          "hash": "dmcZCmIuyMUyAjg6qk1ZbTu90qoWj87ZfoSN0yw01HY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedCultureToUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedCultureToUser.html",
+          "hash": "q46bxETr43kf28UxX1e2tKDAbohvMytr5b/D83STSIE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedDatesForNextAppointment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedDatesForNextAppointment.html",
+          "hash": "pfvs+Y2hQ++iDI2OZ8SfCNRUzieM/l2yVwPx1aFE+zg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedDescriptionToQuiz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedDescriptionToQuiz.html",
+          "hash": "mMN+c4Vb6zZqnE69FcuAJ0eQ7rskg0oS/XEq2DjfoEI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedGUIDtoApplicationUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedGUIDtoApplicationUser.html",
+          "hash": "xYqQBC18+uLVLbSBd66AtA0dNtIGVik/d1zVEJxN+m4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedGameProfileAndLevels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedGameProfileAndLevels.html",
+          "hash": "VFb8K2YR4WgmKhjgatT5nAmX9XizAE0WD5JakIMlK9Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedGoalToAchievement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedGoalToAchievement.html",
+          "hash": "Nw3Y8Xh3ETqodnqj5tdDlA9xxi4F7bsFKejIKWJrhsk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedGuardian.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedGuardian.html",
+          "hash": "pF4PpTMxb+dTt0F6hMPEDUkysijDlQpAxSfiVZ0jsjU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedHasAchievementsToUDR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedHasAchievementsToUDR.html",
+          "hash": "U7k8//xiHoa6blwzyQWVLTJxoquAESCYw3o7e8DFM0w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedHasExtraGems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedHasExtraGems.html",
+          "hash": "LBpqrgSeid/wkzxl4uLeiOUYuWtUlsye//Zox5+9FyY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedLastComlpetedDate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedLastComlpetedDate.html",
+          "hash": "RQSve+DNbemAyJ9MFAY420MJCP7x3xaRyORZkZFLasQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedLastUpdatedToGameProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedLastUpdatedToGameProfile.html",
+          "hash": "iD2VNXjNkA7kyidwRXmnQNUEdRt4b4LEdO3Ke09MvPA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedLiveWearingTimeChar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedLiveWearingTimeChar.html",
+          "hash": "wHL8C8vArwJPaVqQqOGESTtPf7NclkqfL6v6fclRkIM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedLocationToUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedLocationToUser.html",
+          "hash": "lalSRBQkQn6XlNqExGsk7xj5Z+I/DfhrgKxsHci1IHY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedNonAdjSecs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedNonAdjSecs.html",
+          "hash": "c5HZsac9Yiaf1M8n/R8E7ujg6gaRtQdcf0O67BNyAfw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedNotification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedNotification.html",
+          "hash": "draaTMqMeba3BuBTF++uHKeSlU/077zoTek2Dh9K4vQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedPatientHistory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedPatientHistory.html",
+          "hash": "AGNsVrIKU/92yhz+SxWqxQaX6cPrIScKDWZjDQN9nSg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedPatientHistoryForeignKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedPatientHistoryForeignKey.html",
+          "hash": "IXhsVUNGsp9J3zxKH3Tf23tzX2soxV40TjBtF5xK8yo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedPrestigeToGameProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedPrestigeToGameProfile.html",
+          "hash": "lf20iRZLRpNrRLRJ2v0o7RW6siQfMnb834tcaJ+liF8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedProgressToApplicationUserAchievement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedProgressToApplicationUserAchievement.html",
+          "hash": "CQxvgezQ5CVKleqWjfarKurTzw+EiLiCu9LTQNr0zQo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedQuiz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedQuiz.html",
+          "hash": "o8ye+BH0y4/DuEXF5aAyIQ1m7ZIg+8PugIHt1qxlUG0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedQuizAnsweredToDailyReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedQuizAnsweredToDailyReport.html",
+          "hash": "+9FXgWkn7oYeFccqvCaFm3+mq+4ratjgB5bZKXC0HMM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedRecommendWearingHours.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedRecommendWearingHours.html",
+          "hash": "af3E4JQcp3tb2eTUuYv9fOT8l34QPWe6SRA1tuvupTM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedRisser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedRisser.html",
+          "hash": "FuDNa2hK7Mfr9/7BdGMT8v4znW/VquhBn8jjHPWXVFY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedSecondCobbAngle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedSecondCobbAngle.html",
+          "hash": "8ljgh/MaF2aqfUFvcDu1RZTJ6A6+39CIwGYSfi0Vlxg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedSensorNamesToDoctorPatoentMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedSensorNamesToDoctorPatoentMap.html",
+          "hash": "LpnUWDo8uegpmd5suLRJNuylejG1lmgeRs3dSD52EF0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedStartDateToAchievemntMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedStartDateToAchievemntMap.html",
+          "hash": "2sfiKeAx1Piode6I+9wqgWEGj+xefgjDJPmACgmLVS0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedStartFinishCobbANglesToUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedStartFinishCobbANglesToUser.html",
+          "hash": "fSlyEOdWwKvFJXdmdpVh4hMz8Vs1YAQnOO2PX4ebf4M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedTermsAcceptedtoApplicationUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedTermsAcceptedtoApplicationUser.html",
+          "hash": "IB3YfjTBjXSiptABiSE5lmuZ2JxuzZFO3/Z6jsLxW4g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedTimezone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedTimezone.html",
+          "hash": "Yzjtd7+31hXnVHGiUcUcuB7sc4F/q4oNqPN1RNkgTxI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedTotalWearingTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedTotalWearingTime.html",
+          "hash": "AwD4s2CWZajdQDFAZoUB7Wgn4nT4sCda3FfifRUHPik="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedUniqueToBraceMeasurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedUniqueToBraceMeasurement.html",
+          "hash": "ujpl6RXb43LvxHXIQjsCm8qoIkEp83PTW56cNEW5z7c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedUserDailyReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedUserDailyReport.html",
+          "hash": "tlAXSQy+Vdzbgc+gVEdbtAy+t8XDljntDYBE1vGZuw4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.AddedVersionsTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.AddedVersionsTable.html",
+          "hash": "d6ChlPZ0GJYpxywFZCv0rMSDSY/Q1XqDlwTKipyktik="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.ApplicationUserAchievementMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.ApplicationUserAchievementMap.html",
+          "hash": "QRO4puWQjN8Q441rl4WQTf+XFx7HoMk1Qn5NUCEyTpI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.BonusTimestampToInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.BonusTimestampToInt.html",
+          "hash": "94XD5gwB7R9OgUtHvIErC/vvgg3GsQt1NCKYp71Oqo8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.ChangeAgeToString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.ChangeAgeToString.html",
+          "hash": "PdKT/u8zTL+Dw3sBc/rqzK+wAR0zp/t++qO+35wrOIM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.ChangedBackBraceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.ChangedBackBraceInfo.html",
+          "hash": "Q10dkbuTXl1JXWPlUBsHe4mj4xXQ73V5+hzng2X+KNU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.CoinsConvertedtoDouble.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.CoinsConvertedtoDouble.html",
+          "hash": "jmDh1P6+0senMUfPVhUmhbgateg+aklBy6g8bekoC9c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.CompleteDateOnAchievementMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.CompleteDateOnAchievementMap.html",
+          "hash": "GKYIaEOHgAdJ+nu3eqTS7niGVOnSLPBV6l6sxPIJl+I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.ConvertAdjsutmentFromDoubleToInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.ConvertAdjsutmentFromDoubleToInt.html",
+          "hash": "QBvxnPdKj/ZBhk643xfqYGNgwlFqguDvi3hJrhq1E+g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.ConvertedCobbGoalToCoobBrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.ConvertedCobbGoalToCoobBrace.html",
+          "hash": "9T3/SEE/nhHsnFcabxKqPZ8aYfTOYsJ7sJKTFGZcLG4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.CurrentAchievement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.CurrentAchievement.html",
+          "hash": "nQmRmWWAzeZBTLa7iGWH2zF2O1rW99bh53k8PAxEIJ4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.DeviceHubRegistrationAdded.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.DeviceHubRegistrationAdded.html",
+          "hash": "VrOyRqNQg2xlxJYamxbmbp2+cgxYTu0YyfXN6TuPhrg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.DoctorPatientAnnotaions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.DoctorPatientAnnotaions.html",
+          "hash": "/rrBsZ6SLcH4liWHR2eUPvMC+anTElhEjIUvn2dUiuI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.DoctorPatientMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.DoctorPatientMap.html",
+          "hash": "ubwHw/MlGVnroJnktwZKpMIU7zX+ojKy9vx86NNaU2Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.DoctorPatientMapSensorInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.DoctorPatientMapSensorInt.html",
+          "hash": "gXNaUcMuNLYQFZx1nq8Rznag8ICEnkFBmqhmX+n/JtU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.FixedAchivementModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.FixedAchivementModel.html",
+          "hash": "PlMj7d1LOXsGdU+lyjQmFsCIlmk9gmv0qZl8XMI7aGE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.GameProfileTypoFix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.GameProfileTypoFix.html",
+          "hash": "VS9dskHz8gX8fbt7BEa6He7HR028bTjv5Dvd+llI6yY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.InitialMigration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.InitialMigration.html",
+          "hash": "XnQFqvlbf4TLu8ETT6BKTphlX+61dj/dltAgiu5WZK0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.MovedCobbANglesToDoctorPatientMao.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.MovedCobbANglesToDoctorPatientMao.html",
+          "hash": "d1Ll6fakHc8MRWhr+L4RvgahE93omDxdVHWpqV0BUGg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.MovedGoalToAchievement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.MovedGoalToAchievement.html",
+          "hash": "mSrvxx8pimeP+MFtFPRGIGDGnOUhGidQzG6/H5Ci+vU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.NewAchievementModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.NewAchievementModel.html",
+          "hash": "StxVVyULX1I4Tqa7hA+C6fr1E3Bs0oCpcIOQmROJtyA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.NewAdjustmentModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.NewAdjustmentModel.html",
+          "hash": "9dl3WezjlLrnmkxBLrf+1MRHOqIMf7FgG1a+xLW63L8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.NotificationForeignKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.NotificationForeignKey.html",
+          "hash": "IX5ACMVj/BVgygoJZ2gfHH7CBWf2MZBvNSSsuj363Pw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.PatientIdToGuardian.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.PatientIdToGuardian.html",
+          "hash": "sHUPHYwMRm7bdCbuJqkBBk8PXRV4Ev439L6HFIRK79A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemoveSensor4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemoveSensor4.html",
+          "hash": "4lshlT0qSLp0DjiOhIqxYbMSxDgzlmOj13282BqhIp4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedAppointments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedAppointments.html",
+          "hash": "zeTZ/V/zdP6BWu9mGClId2M15plha9QRfTBMcqEpjG4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedBadge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedBadge.html",
+          "hash": "QmB3V5drEbkEGJBQXmZwrngZFpEb+qTs3qwHKCmUEi0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedBattery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedBattery.html",
+          "hash": "zPq+v/OOyTyM4k2PKW7eYfxFoNWGSRYVGQQSa1lZaWs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedBatteryFromBraceMeasurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedBatteryFromBraceMeasurement.html",
+          "hash": "rWMpRifZTYT8QhBkjF9ijox2xieD9az2a9INT+FnpaQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedBonusTimestampFromGameProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedBonusTimestampFromGameProfile.html",
+          "hash": "ZKNgE5kAzun4ObNnb/pqYZNo4b9rXbxVySpg7bREQ4Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedGUIDFromUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedGUIDFromUser.html",
+          "hash": "+XS0G3sfVsWX/OAKagkdFg7eTLk8PQxWm7CMrXN5Ti0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedGemsFromDailyReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedGemsFromDailyReport.html",
+          "hash": "nYl4Den462cFF8UEtFyBAxdte4SVIWL1VQ6damlhbAg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedLevelAndGameProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedLevelAndGameProfile.html",
+          "hash": "HwPAsLrtVtTx3Av1g/mwhnkYAVvbjy6xdPi1vle0Zk4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedQuizFromUserQuizAnswer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedQuizFromUserQuizAnswer.html",
+          "hash": "iHTIAsPzRR0OMvJPQ/GjcdfPbniayCUub94Tt63IK1A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedSensor5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedSensor5.html",
+          "hash": "EtHzRDTrnYO/0SZqzyjjR3+2iAnY2eSz8Q4EEOyyxyI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedStatusFromDoctorPatientMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedStatusFromDoctorPatientMap.html",
+          "hash": "o6LrwCVZsg3+psKPC7MbO+61smAOTPo9GziBYUzLIZE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.RemovedSycnedFromBraceMeasurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.RemovedSycnedFromBraceMeasurement.html",
+          "hash": "+PQAKSJdzbHaYAYfwQrIvo5hRY07RyVShMDWPhKu9aw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.ReportFrequency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.ReportFrequency.html",
+          "hash": "cu9AsKYzLsNkileASqvezjSqtLvVGJU/+4ULC8g3fGQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Migrations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Migrations.html",
+          "hash": "rx4pAiKbiecWyz5sjdflBhT6Cle9Di9UI0+Fuv1wGVs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Achievement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Achievement.html",
+          "hash": "45LaAww+Dwgv5Ve3nTGdxAaESqfMCvZTAcVE+fZjTLA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.AchievementHistory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.AchievementHistory.html",
+          "hash": "qG1Y2EyQKTAvWZ7V3VscP+oBQZJwKa56xdM/iJ4tmJg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Adjustment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Adjustment.html",
+          "hash": "fycRLxomDYZA0tcn1RoZfcGa+aGxLDPUB2V17J/Vm/A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ApplicationUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ApplicationUser.html",
+          "hash": "znrbkWeKE1lhF4MQmTK3JYDb7qGnOaMX0d0Ul0u82e8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ApplicationUserAchievement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ApplicationUserAchievement.html",
+          "hash": "iBr0T9N+EvqyzqTeYleieMQmXpzV3n9I9ZaQ8yrlHs4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.BackBraceInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.BackBraceInfo.html",
+          "hash": "cvmXhZqdJpWq6Tls4S1KXn0CwzFOqiUBrOftGTIg/rw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.BraceMeasurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.BraceMeasurement.html",
+          "hash": "uHAFeUCgzY26LwEhjjYEbxIj9I9NF3znoa7bJfW2rDQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.CobbAngle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.CobbAngle.html",
+          "hash": "D/YL3BgvQe2gG88gcgj2XHEerOHPwB+bIFRtIEr9ywQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.DeviceHubRegistration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.DeviceHubRegistration.html",
+          "hash": "FytN+uo0VrfNgMknImMcXp3nhkw3IJuvIW3EAPNt3A8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.DoctorPatientMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.DoctorPatientMap.html",
+          "hash": "jhzbXb+6FpueakwiI/9CuxbjyiTxWNcI0DZWdN9qz4k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.EmailReportModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.EmailReportModel.html",
+          "hash": "EmZ7x7lhX/NRzP4YEMYPyV5buBPUQo9KVwe9G2sjjwU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ErrorViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ErrorViewModel.html",
+          "hash": "yerZpp+ue2/GKYdraSAOgaGJmO16h+nKzT05y7gVBjE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ExportDataInputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ExportDataInputModel.html",
+          "hash": "pCiuTqRphJ2JUjx+01XOcQOhPiLlVpw7+aWK6SDtqW8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Guardian.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Guardian.html",
+          "hash": "MM15cgdnd3jzvwbMa1hGMlPOK18970Acgh57p6+bomk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Notification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Notification.html",
+          "hash": "2TvmSSNBHZXwzhwfZJgh6Ms/12SqfEHdi5a9NdvX0cw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.NotificationSchedule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.NotificationSchedule.html",
+          "hash": "bg9AAEEXCJJIuRTcMgg7IU/XwvAdfxCSStU5S2z5SEc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Notifications.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Notifications.html",
+          "hash": "e2fo+GkRoT7Bkefh/bOaInuhsAW3mFUoc262DbuvEuQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.PatinetHistory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.PatinetHistory.html",
+          "hash": "9SfcPnLZFQcSO6+gR7VmdvakDcSo6DO3fiJbftnxuLA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Quiz.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Quiz.html",
+          "hash": "YqPvpYNa0ubxrehQgF0+UN8nQpSBNA7DyC/zMh172YE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.QuizChoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.QuizChoice.html",
+          "hash": "Q6nnRbcYz8+a3X9cJmFeCB3qPfQLnMTHJUYhlKnVqxQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.RegisterInputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.RegisterInputModel.html",
+          "hash": "/gcujX3l/jm5eZEscplmbiXwMldHyG5m+keV6QuMFaQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Scoliosis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Scoliosis.html",
+          "hash": "1rl/mglXa1XkUXAzY1rf67C1EbGCbw8PhbOGuNr0KwA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Sensor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Sensor.html",
+          "hash": "xY7cdtjY3O1i/zINIkY3A17NlgDDxZ6J7Me+eGHYRn4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.TokenRequestInputModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.TokenRequestInputModel.html",
+          "hash": "t4UJhpF8Yx82ZlsJPk5imfDgQNMbxkUGRylbw1eohGQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.UserCalibrationModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.UserCalibrationModel.html",
+          "hash": "kSsVBih/dc+iDvQlq9ZkQzAs5J96SkZ/J9kMKdn9RZ0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.UserDailyReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.UserDailyReport.html",
+          "hash": "+so1W7gEtXPgWSjf1qkA5thgB/UcbUOOH8EPItcjtDw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.UserQuizAnswer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.UserQuizAnswer.html",
+          "hash": "aJ8IXU2tANRehxo4WI+dGElw84dmNqRAmlXGt4mtV1M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Versions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Versions.html",
+          "hash": "UNCktuDX1qshvZTVRQAjDal+aamHuuMgMZRUTAQ8kYk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.AdjustmentViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.AdjustmentViewModel.html",
+          "hash": "Xjuj7TdvZI7YFxNlgyoZyByDl5AzNX87Fv6M2xlTdf8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.ChangeDoctorPasswordViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.ChangeDoctorPasswordViewModel.html",
+          "hash": "GB83tQvKEHfenxuY2lBcETRlDhuvbHDIgkaNqFxD610="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.ChangePasswordViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.ChangePasswordViewModel.html",
+          "hash": "9Ep/VH5ObC5Le1Q5vH1DzEl4ngLRojnralICIHk0VuI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.CobbAngleViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.CobbAngleViewModel.html",
+          "hash": "XU8xXxgZv9iNJqKKgDJp3t7HyACitn2M9ztFkC7mcig="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.DoctorDashboardDataTableViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.DoctorDashboardDataTableViewModel.html",
+          "hash": "P28oWmJV6DPf7jGl5GXX3nBUAtGe6DHaLMB41tfboJo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.DoctorEditViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.DoctorEditViewModel.html",
+          "hash": "dt8kybqw7qF+cvDAVpWX3HULKEZpmelvNyuiNziJTrI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.PatientCreationViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.PatientCreationViewModel.html",
+          "hash": "5R2qYqis/Kaliji3uZpJIcZAdlboQ29I00eRmYGa/Y0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.PatientDetailsViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.PatientDetailsViewModel.html",
+          "hash": "zQIQJXbkuJGjju7NWAVg9FCy36BrFARLDczzcw3wf9k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.PatientEditViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.PatientEditViewModel.html",
+          "hash": "6I7Be2nc6czlDCs3wmQdCIUhVGmr2RxIOlgrFBeKthE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.ViewModels.html",
+          "hash": "9wwYi3g40heSSZpnfO4blcwetrNU6Lvor4gVhwFdD5M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.WearingTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.WearingTime.html",
+          "hash": "fudyCORHoEU+WOOTeUOO0H+wdQ+gnuu4+8Uz4jc3ZME="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.Widget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.Widget.html",
+          "hash": "S0BnxDVwiB8fLjT3t3gt5PGbPRvDDEPYMGfajI0PtHU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Models.html",
+          "hash": "B8SSxkFEXyDoNkuwRXx+DhigvNUdwgV7AFtLDnzIEs8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Program.html",
+          "hash": "7kxiKE8xeMysX8lC2KyXEZyMTUacHUKe4g+TF2Uu9b4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.AuthMessageSenderOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.AuthMessageSenderOptions.html",
+          "hash": "LqWe0vU1jsxgqnmPZH0hkTMC3yqHvFUZaSBm+t2uNSs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.DateTimeHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.DateTimeHelpers.html",
+          "hash": "jRsytQnbhZlDRsJq5N9aXZmZqBLL0aEOQFY6RTKaafQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.EmailConfirmationTokenProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.EmailConfirmationTokenProvider-1.html",
+          "hash": "251voRSFgp7Z7yvLJOhru/9C9qlHlaQgVyvaELKLiF4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.EmailConfirmationTokenProviderOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.EmailConfirmationTokenProviderOptions.html",
+          "hash": "hGY6/B12nVGrlVRdU0d9DZCsORsQqdx2iKtVJlAbT1M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.EmailSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.EmailSender.html",
+          "hash": "BRFGP7T4NiilpkUOaAlYpShj1AqwcfcLoBsKUlSrYtw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.ReportingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.ReportingService.html",
+          "hash": "fuI2tqXYFQhI+WmtT5xaTnd5rHcKiRJ0pYo8hZQhNwo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Services.html",
+          "hash": "HYzHVsf/VxgImUpwa77GXnePcgcfG6KngIWP1Rn2zZU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.SignalR.IHubClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.SignalR.IHubClient.html",
+          "hash": "zqB2T6FTbGJUt/xdtamC3LfLOn179uW1P9ZELb0/4yM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.SignalR.SignalRHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.SignalR.SignalRHub.html",
+          "hash": "j5wOK4rJmzELaSLZuoSk//3EKO3ttbOJAP4ve+dIjO8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.SignalR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.SignalR.html",
+          "hash": "pJ3DMZ1d1oLMQbp128IdXS9Bz4ozI0M1C08mqjnvD4o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Startup.html",
+          "hash": "ghL7Vw7olI/7avbX+LbHR/MZIAxTdPXhJkeyHHrj9mI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Utility.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Utility.Constants.html",
+          "hash": "Wfukh3XACT+0LiCretVIsT+eXZiIHFDXQ02lD/qRNY8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Utility.Helper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Utility.Helper.html",
+          "hash": "+l19dANOxHnTqZBCpF21Jd+8C3EQmTGUYZh5wI8LZ+0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Utility.IRazorViewToStringRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Utility.IRazorViewToStringRenderer.html",
+          "hash": "QgHLzFuMITNIX7wfLqr8dS13SktJnIL48V/EqZgeDPA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Utility.RazorViewToStringRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Utility.RazorViewToStringRenderer.html",
+          "hash": "MhYCCRXqPufg+bAkp5zrvCyPAFHo0DsOv/9xfZht160="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Utility.SD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Utility.SD.html",
+          "hash": "wrIzU01Sw74YzKo6uHHqM3CNkHKJSL9avx73/q36a4k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.Utility.html",
+          "hash": "E4qbkIAeJ9uyh2tkIYxPq6+eM062tvdX+458oNWJJ1o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BackBraceWeb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BackBraceWeb.html",
+          "hash": "BpOfgrnfco3xmXFgzEaIEBIcCBfP4Rc4CoTbxXdVPro="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "S6HH25ziEUKWJk9c1SDkf4tv9pt+s1Em+CanR3D4XJQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "LIaD+C701BeqjwZdcJVaAONavCPLlj++E2uqRb3sv/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "aOy2sep6UZV26oOkupcIBXuDgHQsCVz7R3i+I6vFl6Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "J2Ucrckdx4dg4IZOx6kwfAACTTn8pqVwhGnYicz3XjE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 244,
+          "skipped_file_count": 244
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
